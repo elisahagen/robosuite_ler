@@ -4,7 +4,7 @@ __pycache__/
 *.so
 
 # Large models and assets
-models/assets/
+# models/assets/
 
 # Build / packaging
 build/
